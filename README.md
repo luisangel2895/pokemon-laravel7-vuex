@@ -15,7 +15,7 @@ For this project i use the stack of:
 
 We can see a image of prefiew of this project, when this have a interactive search that recomend you the pokemon and show the pokemon selected of written in below part.
 
-![image-pokemon]()
+![image-pokemon](https://github.com/luisangel2895/pokemon-laravel7-vuex/blob/9cb3242dfb6efe9ec1a43327a340b0be4b2fee7b/images/Screenshot_47.png)
 
 # Run
 
